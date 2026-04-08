@@ -7,13 +7,13 @@ CTFやアプリ開発を通して、攻撃手法の理解だけでなく、防�
 
 ## Skills
 
-**Languages:** PHP · Python · JavaScript
-**Framework:** Laravel
-**Database:** MySQL · SQLite
+**Languages:** PHP · Python · JavaScript<br>
+**Framework:** Laravel<br>
+**Database:** MySQL · SQLite<br>
 
-**Security:** Burp Suite · OWASP ZAP · Wireshark · Nmap
-**Infrastructure:** Linux (RHEL系)
-**Server / DB:** Render · Supabase
+**Security:** Burp Suite · OWASP ZAP · Wireshark · Nmap<br>
+**Infrastructure:** Linux (RHEL系)<br>
+**Server / DB:** Render · Supabase<br>
 **Others:** Git · Docker
 [![My Skills](https://skillicons.dev/icons?i=js,java,python,mysql,docker)](https://skillicons.dev)
 
