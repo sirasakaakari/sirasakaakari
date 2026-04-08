@@ -15,8 +15,7 @@ CTFやアプリ開発を通して、攻撃手法の理解だけでなく、防�
 **Infrastructure:** Linux (RHEL系)
 **Server / DB:** Render · Supabase
 **Others:** Git · Docker
-
----
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,mysql,docker)](https://skillicons.dev)
 
 ## Certifications
 
@@ -24,8 +23,6 @@ CTFやアプリ開発を通して、攻撃手法の理解だけでなく、防�
 * CompTIA Network+
 * EC-Council CCT
 * 基本情報技術試験A免除
-
----
 
 ## Projects
 
@@ -35,14 +32,12 @@ CTFやアプリ開発を通して、攻撃手法の理解だけでなく、防�
 Laravelを用いてバックエンド・データベース設計を実装。
 ユーザー間のフォロー機能や通知機能を実装し、継続的な学習を促す設計を意識。
 
----
 
 ### 📰 CivicHub
 
 AIがニュースを収集・整理するアプリ。
 情報取得だけでなく、ユーザーにとって見やすい形で提示することを意識して開発。
 
----
 
 ## Learning / Experience
 
@@ -50,7 +45,6 @@ AIがニュースを収集・整理するアプリ。
 * Webアプリケーションの脆弱性検証
 * ext4ファイルシステムのinode解析・データ抽出
 
----
 
 ## 🌐 Links
 
