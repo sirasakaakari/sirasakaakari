@@ -42,3 +42,4 @@ AIがニュースを収集・整理するアプリ。
 ## 🌐 Links
 
 * Portfolio: coming soon
+* Zenn: https://zenn.dev/siratama_aka
